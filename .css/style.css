@@ -2,12 +2,6 @@
 
 body{
     background-color: rgb(251, 233, 236);
-    color: maroon;
-}
-
-html, body{
-    margin: 0;
-    padding: 0;
 }
 
 header{
@@ -20,4 +14,7 @@ header h1{
   font-family: "Jersey 20", sans-serif;
   font-weight: 400;
   font-style: normal;
+}
+main{
+    color: maroon
 }
