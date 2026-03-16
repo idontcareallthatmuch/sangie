@@ -16,5 +16,7 @@ header h1{
   font-style: normal;
 }
 main{
-    color: maroon
+    color: maroon;
+    width: 800px;
+    margin: 0 auto;
 }
