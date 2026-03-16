@@ -1,7 +1,8 @@
 body{
     background-color: rgb(251, 233, 236);
+    color: maroon;
 }
 
-header[
+header{
     text-align: center;
-]
+}
