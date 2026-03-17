@@ -14,7 +14,7 @@ ul, ol{
 header{
     text-align: center;
     color: white;
-    background-color: darkred;
+    background-color: rgb(139, 0, 76);
     padding: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -31,14 +31,14 @@ p.caption{
 }
 
 h1{
-  font-family:Georgia, 'Times New Roman', Times, serif
+  font-family:Georgia, 'Times New Roman', Times, serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 40px;
+  font-size: 35px;
 }
 
 h2{
-  font-family:Georgia, 'Times New Roman', Times, serif
+  font-family:Georgia, 'Times New Roman', Times, serif;
   font-weight: 400;
   font-style: normal;
   font-size: 25px;
@@ -55,6 +55,15 @@ main img{
 }
 
 footer{
-    background-color: rgb(251, 233, 236);
+    background-color: rgb(139, 0, 76);
+    padding: 40px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+footer .content{
+    width: 800px;
+    margin: 0 auto;
+    color:white;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
