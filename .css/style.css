@@ -19,6 +19,10 @@ header{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+a:hover{
+    color: rgb(203, 163, 222) !important;
+}
+
 p.caption{
     color: rgb(58, 35, 35);
     font-style: italic;
