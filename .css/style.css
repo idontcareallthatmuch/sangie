@@ -7,6 +7,10 @@ p, ul, ol{
     line-height: 20px;
 }
 
+ul, ol{
+    padding-left: 20px;
+}
+
 header{
     text-align: center;
     color: white;
@@ -16,8 +20,10 @@ header{
 }
 
 p.caption{
-    color: rgb(120, 120, 120);
-    font-style: italic
+    color: rgb(58, 35, 35);
+    font-style: italic;
+    font-size: 16px;
+    margin-top: 5px;
 }
 
 h1{
