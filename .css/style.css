@@ -41,7 +41,7 @@ h2{
   font-family:Georgia, 'Times New Roman', Times, serif
   font-weight: 400;
   font-style: normal;
-  font-size: 27px;
+  font-size: 25px;
 }
 
 main{
@@ -52,4 +52,9 @@ main{
 
 main img{
     max-width: 100%;
+}
+
+footer{
+    background-color: rgb(251, 233, 236);
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
